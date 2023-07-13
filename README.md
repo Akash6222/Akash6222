@@ -12,4 +12,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&" alt="Akash6222" /></p>
 
 ## 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=Akash6222&theme=darkhub
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
