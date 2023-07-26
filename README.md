@@ -27,7 +27,7 @@
 
 <p><img alt="Github Streak " src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /> 
 
-<p><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Activity%20Graph&theme=radical />
+<p><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Activity%20Graph&theme=radical" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
