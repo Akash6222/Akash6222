@@ -27,6 +27,8 @@
 
 <p><img alt="Github Streak " src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=dark" /></a>
 
+  <p><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Activity%20Graph&theme=react-dark" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_akash_dubey_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_akash_dubey_1" height="30" width="40" /></a>
