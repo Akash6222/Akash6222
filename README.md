@@ -1,8 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
 <h3 align="center">A passionate Linux developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash6222&label=Profile%20views&color=0e75b6&style=flat" alt="akash6222" /> </p>
-![](https://visitcount.itsvg.in/api?id=Akash6222&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash6222&label=Profile%20views&color=0&style=flat" alt="akash6222" /> </p>
 
 - 🔭 I’m currently working on [TCET Linux](https://github.com/tcet-opensource/tcet-linux)
 
