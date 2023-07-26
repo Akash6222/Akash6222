@@ -23,7 +23,7 @@
 
 ![](https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/1-repos-per-language.svg)    ![](https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/2-most-commit-language.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical) <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akash6222&" alt="akash6222" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=transparent) <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akash6222&" alt="akash6222" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
