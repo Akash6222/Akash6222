@@ -25,9 +25,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical) 
 
-<p><img alt="Github Streak " src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /></a>
-
-  <p><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Activity%20Graph&theme=react-dark" /></a>
+<p><img alt="Github Streak " src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /> <p><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Activity%20Graph&theme=react-dark" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
