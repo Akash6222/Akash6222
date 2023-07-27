@@ -50,7 +50,6 @@
 
 ![](https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/1-repos-per-language.svg)    ![](https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/2-most-commit-language.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical) 
 
