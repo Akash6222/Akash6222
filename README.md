@@ -94,7 +94,7 @@
   <br/>
  <p align="center">
    <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
-   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Activity%20Graph&theme=radical" /></a>
+   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gokadzev&custom_title=Valeri%20Gokadze's%20Activity%20Graph&theme=react-dark" /></a>
   <br />
 
 </details>
