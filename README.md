@@ -46,28 +46,6 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-
-
-![](https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg)
-
-
-![](https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical) 
-
-<p><img alt="Github Streak " src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /> 
-
-<p><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Activity%20Graph&theme=radical" />
-
-
-### 💬 Social
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-
-
-
-
 ## 📊 Github Stats (Expand to View)
 
 <details> 
@@ -102,5 +80,10 @@
 
 
 <br />
+
+### 💬 Social
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
