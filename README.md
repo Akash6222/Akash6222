@@ -50,31 +50,23 @@
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
   <p align="center">
     <a><img alt="Gihub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="Akash6222" height="192px"/></a>
 	</p>
-  <br />
   </p>
 </details>
-
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
-  <br/>
   <p align="center">
    <a><img alt="Gihub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /></a>
-  <br />
 
 </details>
-
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
  <p align="center">
    <a><img alt="Contribution Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
    <!--<a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Akash%20Dubey's%20Activity%20Graph&theme=react-dark" /></a>-->
-
 </details>
-<br />
 
 ### 💬 Social
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
