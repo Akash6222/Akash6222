@@ -74,7 +74,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/gokadzev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="Akash6222" height="192px"/></a>
+    <a><img alt="Gihub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="Akash6222" height="192px"/></a>
 	</p>
   <br />
   </p>
@@ -84,7 +84,7 @@
   <summary><b>🔥 GitHub Streak</b></summary>
   <br/>
   <p align="center">
-   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /></a>
+   <a><img alt="Gihub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /></a>
   <br />
 
 </details>
@@ -93,8 +93,8 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
  <p align="center">
-   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
-   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gokadzev&custom_title=Valeri%20Gokadze's%20Activity%20Graph&theme=react-dark" /></a>
+   <a><img alt="Contribution Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
+   <a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gokadzev&custom_title=Valeri%20Gokadze's%20Activity%20Graph&theme=react-dark" /></a>
   <br />
 
 </details>
