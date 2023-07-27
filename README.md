@@ -83,6 +83,7 @@
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
   <br/>
+  <p align="center">
    <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /></a>
   <br />
 
@@ -91,7 +92,9 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Activity%20Graph&theme=radical" /></a>
+ <p align="center">
+   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
+   <a href="https://github.com/gokadzev"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Activity%20Graph&theme=radical" /></a>
   <br />
 
 </details>
