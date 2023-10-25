@@ -67,7 +67,7 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
  <p align="center">
    <a><img alt="Contribution Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
-   <!--<a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Akash%20Dubey's%20Activity%20Graph&theme=react-dark" /></a>-->
+   <!--<a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Akash%20Dubey's%20Activity%20Graph&theme=react-dark" /></a>
 </details>
 -->
 
