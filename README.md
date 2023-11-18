@@ -46,7 +46,7 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-<!---
+
 ## 📊 Github Stats (Expand to View)
 
 <details> 
@@ -68,7 +68,7 @@
    <a><img alt="Contribution Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
    <!--<a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Akash%20Dubey's%20Activity%20Graph&theme=react-dark" /></a>
 </details>
--->
+
 
 ### 💬 Social
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
