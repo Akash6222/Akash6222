@@ -7,7 +7,6 @@
 
 
 
-
 - 🔭 I’m currently working on [TCET Linux](https://github.com/tcet-opensource/tcet-linux)
 
 - 🌱 I’m currently learning **C++, Dsa, DevOps Tools**
