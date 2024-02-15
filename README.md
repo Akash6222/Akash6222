@@ -42,7 +42,7 @@ wh<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
-### 🧑‍💻 Developer/Forums
+<h3 align="left">Coding Profiles:</h3>
 <p>
 	<a href="[https://www.codechef.com/users/akashdubey2527](https://www.codechef.com/users/akashdubey2527)" target="blank"><img align="center"
     	width="40" />
