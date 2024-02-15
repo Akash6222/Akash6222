@@ -47,9 +47,7 @@ wh<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
 	<a href="[https://www.codechef.com/users/akashdubey2527](https://www.codechef.com/users/akashdubey2527)" target="blank"><img align="center"
     	width="40" />
 </p>
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
-![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
 
 
 
