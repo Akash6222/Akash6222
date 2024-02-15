@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
+wh<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
 <h3 align="center">A passionate Linux developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash6222&label=Profile%20views&color=0e75b6&style=flat" alt="akash6222" /> </p>
@@ -43,6 +43,10 @@
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
 ### 🧑‍💻 Developer/Forums
+<p>
+	<a href="[https://www.codechef.com/users/akashdubey2527](https://www.codechef.com/users/akashdubey2527)" target="blank"><img align="center"
+    	width="40" />
+</p>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
