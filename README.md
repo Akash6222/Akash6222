@@ -44,8 +44,10 @@ wh<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
 
 <h3 align="left">Coding Profiles:</h3>
 <p>
-	<a href="[https://www.codechef.com/users/akashdubey2527](https://www.codechef.com/users/akashdubey2527)" target="blank"><img align="center"
-    	width="40" />
+<a href="https://www.codechef.com/users/vaibhavashta" target="blank"><img align="center"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavashta" height="30"
+    width="40" />
+</a>
 </p>
 
 
