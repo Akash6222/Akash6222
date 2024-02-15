@@ -1,4 +1,4 @@
-wh<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
+<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
 <h3 align="center">A passionate Linux developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash6222&label=Profile%20views&color=0e75b6&style=flat" alt="akash6222" /> </p>
@@ -42,7 +42,7 @@ wh<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
-<h3 align="left">Coding Profiles:</h3>
+### 🧑‍💻 Developer/Forums
 <p>
 <a href="https://www.codechef.com/users/vaibhavashta" target="blank"><img align="center"
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavashta" height="30"
@@ -50,7 +50,9 @@ wh<h1 align="center">Hi :wave:, I'm Akash Dubey</h1>
 </a>
 </p>
 
-
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
+![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
 
