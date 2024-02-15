@@ -44,16 +44,17 @@
 
 ### 🧑‍💻 Developer/Forums
 <p>
-<a href="https://www.codechef.com/users/vaibhavashta" target="blank"><img align="center"
+<a href="https://www.codechef.com/users/akashdubey2527" target="blank"><img align="center"
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavashta" height="30"
     width="40" />
 </a>
 </p>
 
+<!--
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 
 ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-
+-->
 
 
 ## 📊 Github Stats (Expand to View)
