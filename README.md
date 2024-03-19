@@ -17,6 +17,15 @@
 
 - 📫 How to reach me **akashlinux0@gmail.com**
 
+
+### 📊 Github Stats 
+
+<!-- prettier-ignore-start -->
+| <img src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="stats graph" /> | <a href="https://github-readme-stats-vaibhav-ashtas-projects.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" alt="GitHub Streak" /></a> |
+|--------------- | --------------- |
+| [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Akash6222&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |<img src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" alt="activity-graph graph" width="600"/>|
+<!-- prettier-ignore-end -->
+
 <h3 align="left">Languages and Tools:</h3>
 
 ### 📋 Languages
@@ -62,12 +71,5 @@
 <a href="https://twitter.com/_akash_dubey_1" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
 <a href="https://www.linkedin.com/in/akash-dubey-807a6b200" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
 
-## 📊 Github Stats 
-
-<!-- prettier-ignore-start -->
-| <img src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="stats graph" /> | <a href="https://github-readme-stats-vaibhav-ashtas-projects.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" alt="GitHub Streak" /></a> |
-|--------------- | --------------- |
-| [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Akash6222&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |<img src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" alt="activity-graph graph" width="600"/>|
-<!-- prettier-ignore-end -->
 
 ---
