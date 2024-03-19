@@ -32,6 +32,7 @@
 ### 💾 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎛️ Operating System
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -44,8 +45,8 @@
 ### 🧑‍💻 Developer/Forums
 <p>
 <a href="https://www.codechef.com/users/akashdubey2527" target="blank"><img align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavashta" height="30"
-    width="40" />
+    src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef" 
+    height="30" />
 </a>
 </p>
 
@@ -55,33 +56,18 @@
 ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 -->
 
+## 💬 Social
 
-## 📊 Github Stats (Expand to View)
+<a href="https://discord.com/invite/wWUba8YW" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="linkedin logo"/></a>
+<a href="https://twitter.com/_akash_dubey_1" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
+<a href="https://www.linkedin.com/in/akash-dubey-807a6b200" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <p align="center">
-    <a><img alt="Gihub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="Akash6222" height="192px"/></a>
-	</p>
-  </p>
-</details>
-<details>
-  <summary><b>🔥 GitHub Streak</b></summary>
-  <p align="center">
-   <a><img alt="Gihub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /></a>
+## 📊 Github Stats 
 
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
- <p align="center">
-   <a><img alt="Contribution Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
-   <!--<a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Akash%20Dubey's%20Activity%20Graph&theme=react-dark" /></a>
-</details>
--->
-
-### 💬 Social
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<!-- prettier-ignore-start -->
+| <img src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="stats graph" /> | <a href="https://github-readme-stats-vaibhav-ashtas-projects.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" alt="GitHub Streak" /></a> |
+|--------------- | --------------- |
+| [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Akash6222&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |<img src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" alt="activity-graph graph" width="600"/>|
+<!-- prettier-ignore-end -->
 
 ---
