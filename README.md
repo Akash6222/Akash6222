@@ -44,8 +44,8 @@
 ### 🧑‍💻 Developer/Forums
 <p>
 <a href="https://www.codechef.com/users/akashdubey2527" target="blank"><img align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhavashta" height="30"
-    width="40" />
+    src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef" 
+    height="30" />
 </a>
 </p>
 
@@ -55,9 +55,13 @@
 ![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 -->
 
+## 💬 Social
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 📊 Github Stats (Expand to View)
-
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <p align="center">
@@ -79,9 +83,5 @@
 </details>
 -->
 
-### 💬 Social
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
