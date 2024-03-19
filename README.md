@@ -32,6 +32,7 @@
 ### 💾 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎛️ Operating System
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -61,27 +62,12 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## 📊 Github Stats (Expand to View)
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <p align="center">
-    <a><img alt="Gihub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="Akash6222" height="192px"/></a>
-	</p>
-  </p>
-</details>
-<details>
-  <summary><b>🔥 GitHub Streak</b></summary>
-  <p align="center">
-   <a><img alt="Gihub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" /></a>
+## 📊 Github Stats 
 
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
- <p align="center">
-   <a><img alt="Contribution Graph" src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" /></a>
-   <!--<a><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Akash6222&custom_title=Akash%20Dubey's%20Activity%20Graph&theme=react-dark" /></a>
-</details>
--->
-
+<!-- prettier-ignore-start -->
+| <img src="https://github-readme-stats.vercel.app/api?username=Akash6222&show_icons=true&theme=radical" alt="stats graph" /> | <a href="https://github-readme-stats-vaibhav-ashtas-projects.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash6222&theme=radical" alt="GitHub Streak" /></a> |
+|--------------- | --------------- |
+| [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Akash6222&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |<img src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" alt="activity-graph graph" width="600"/>|
+<!-- prettier-ignore-end -->
 
 ---
