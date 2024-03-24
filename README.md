@@ -5,15 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=akash6222&label=Profile%20views&color=0e75b6&style=flat" alt="akash6222" />
 </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
-- 🔭 I’m currently working on [TCET Linux](https://github.com/tcet-opensource/tcet-linux)
 
+- 🔭 I’m currently working on <a href="https://github.com/tcet-opensource/tcet-linux">[TCET Linux]</a>
 - 🌱 I’m currently learning **C++, Dsa, DevOps Tools**
 
 - 👯 I’m looking to collaborate on **Open Source Communities**
 
 - 💬 Ask me about **Linux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akash6222?tab=repositories](https://github.com/Akash6222?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Akash6222?tab=repositories">HERE</a>
 
 - 📫 How to reach me **akashlinux0@gmail.com**
 
