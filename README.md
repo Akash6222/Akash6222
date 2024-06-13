@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Akash6222?tab=repositories">HERE</a>
 
-- 📫 How to reach me **akashlinux0@gmail.com**
+- 📫 How to reach me **akashdubey25274@gmail.com**
 
 ## 💬 Social
 
