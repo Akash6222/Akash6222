@@ -1,19 +1,18 @@
----
-
 <h1 align="center">Hi there! 👋 I'm Akash Dubey</h1>
-<h3 align="center">Passionate Linux Developer</h3>
+<h3 align="center">Passionate Linux Developer & Junior Software Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akash6222&label=Profile%20views&color=0e75b6&style=flat" alt="akash6222" />
 </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-- 🔭 I’m currently working on [TCET Linux](https://github.com/tcet-opensource/tcet-linux)
-- 🌱 I’m currently learning **C++, Data Structures & Algorithms, and DevOps tools**
+- 🔭 I worked on [TCET Linux](https://github.com/tcet-opensource/tcet-linux) at [TCET Open Source](https://github.com/tcet-opensource) and now I'm working as a **Software Engineer**."
+- 🌱 In my spare time, I'm working on **ALG** and continuously improving my coding skills
 - 👯 Open to collaborating on **Open Source Projects**
 - 💬 Feel free to ask me anything about **Linux**
 - 👨‍💻 You can check out all my projects on my [GitHub repositories](https://github.com/Akash6222?tab=repositories)
-- 📫 Reach me at **akashdubey25274@gmail.com**
+- 🔒 I also have a few private repositories, but I can't share details about them right now
+- 🚀 I'm passionate about building things that will benefit the community, and when I'm on a project, I work like there's no tomorrow!
 
 ---
 
@@ -43,4 +42,4 @@
 |--------------- | --------------- |
 | [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Akash6222&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |<img src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" alt="GitHub Activity Graph" width="600"/>|
 
---- 
+---
