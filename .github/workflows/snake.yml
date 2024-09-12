@@ -10,10 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout the repository
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+
+      # Create output directory
+      - name: Create output directory
+        run: mkdir -p dist
 
       # Generate the snake animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v2.0.0  # Use a specific version
         with:
           github_user_name: Akash6222
           svg_out_path: dist/snake.svg
@@ -27,8 +31,8 @@ jobs:
 
       # Push the animation to your profile repository
       - name: Push to repository
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0  # Use a specific version
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main  # Ensure this is the correct branch
           force: true
