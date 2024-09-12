@@ -58,5 +58,5 @@
 
 <h2 align="center">My GitHub Contributions</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akash6222/Akash6222/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation">
+  <img src="https://github.com/Akash6222/Akash6222/blob/output/github-contribution-grid-snake2.svg" alt="GitHub Contribution Snake Animation">
 </p>
