@@ -61,4 +61,4 @@
   <img src="https://github.com/Akash6222/Akash6222/blob/output/github-contribution-grid-snake2.svg" alt="GitHub Contribution Snake Animation">
 </p>  -->
 
-![snake animation](https://github.com/Akash6222/Akash6222/blob/output/github-contribution-grid-snake2.svg)
+ <p align="center"><img align="center" src="https://github.com/Akash6222/Akash6222/blob/output/github-contribution-grid-snake.svg" /></p>
