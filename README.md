@@ -55,8 +55,10 @@
 | [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Akash6222&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |<img src="https://raw.githubusercontent.com/Akash6222/Akash6222/master/profile-summary-card-output/2077/0-profile-details.svg" alt="GitHub Activity Graph" width="600"/>|
 
 ---
-
+<!--
 <h2 align="center">My GitHub Contributions</h2>
 <p align="center">
   <img src="https://github.com/Akash6222/Akash6222/blob/output/github-contribution-grid-snake2.svg" alt="GitHub Contribution Snake Animation">
-</p>
+</p>  -->
+
+![snake animation](https://github.com/Akash6222/Akash6222/blob/output/github-contribution-grid-snake2.svg)
