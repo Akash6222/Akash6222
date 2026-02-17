@@ -1,8 +1,10 @@
-<h1 align="center">Hi there! 👋 I'm Akash Dubey</h1>
-<h3 align="center">Passionate Linux Developer & Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Akash Dubey</h1>
+<h3 align="center">Linux Developer • Software Engineer • DevOps Enthusiast</h3>
 
 <p align="center">
-  <strong>Welcome to my GitHub! I'm Akash Dubey, a passionate Linux Developer and Software Engineer, working on impactful solutions for the tech community. Let's explore and build together!</strong>
+  I build reliable systems, love Linux internals, and enjoy working on projects that scale and actually get used.
+  <br/>
+  Open-source contributor • Community-driven engineer • Always learning
 </p>
 
 <p align="left">
@@ -11,24 +13,28 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-- 🔭 I worked on [TCET Linux](https://github.com/tcet-opensource/tcet-linux) at [TCET Open Source](https://github.com/tcet-opensource) in the past, and now I'm working as a **Software Engineer**.
-- 🌱 In my spare time, I'm working on **[ALG](https://github.com/arch-linux-gui)** and continuously improving my coding skills.
-- 👯 Open to collaborating on **Open Source Projects**.
-- 💬 Feel free to ask me anything about **Linux**.
-- 👨‍💻 You can check out all my projects on my [GitHub repositories](https://github.com/Akash6222?tab=repositories).
-- 🔒 I also have a few private repositories, but I can't share details about them right now.
-- 🚀 I'm passionate about building things that will benefit the community, and when I'm on a project, I work like there's no tomorrow!
+### 👨‍💻 About Me
+- 🐧 Strong Linux background with hands-on system-level experience  
+- 🔭 Previously worked on **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)** at **[TCET Open Source](https://github.com/tcet-opensource)**  
+- 🚀 Currently working as a **Software Engineer**, building and maintaining real-world systems  
+- 🌱 Actively contributing to **[Arch Linux GUI (ALG)](https://github.com/arch-linux-gui)** in my free time  
+- 👯 Always open to **open-source collaboration**
+- 💬 Open to sharing and learning about **Linux and DevOps concepts, or system design**
+- ⚡ When I commit to a project, I go all in — ownership matters to me
 
 ---
 
-## 🚀 Featured Projects:
+## 🚀 Featured Projects
 
-- [TCET Linux](https://github.com/tcet-opensource/tcet-linux): A customized Linux distribution built for education and research.
-- [ALG](https://github.com/arch-linux-gui): A community-driven Linux GUI project that aims to make Arch Linux more accessible to users.
+- **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)**  
+  A custom Linux distribution built for education and research use cases.
+
+- **[Arch Linux GUI (ALG)](https://github.com/arch-linux-gui)**  
+  A community-driven initiative to make Arch Linux more accessible without losing its core philosophy.
 
 ---
 
-## 💬 Let's Connect!
+### 💬 Let's Connect!
 
 <a href="https://discord.com/users/1071910908802117773" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord Logo"/></a>
 <a href="https://twitter.com/_akash_dubey_1" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter Logo"  /></a>
@@ -36,7 +42,7 @@
 
 ---
 
-## 🛠️ Skills:
+### 🛠️ Technical Skills
 
 | Category           | Tools                                                                                                                                                                                                                                     |
 |--------------------|----------------------|
