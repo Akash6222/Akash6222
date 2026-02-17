@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 - **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)**  
   A custom Linux distribution built for education and research use cases.
