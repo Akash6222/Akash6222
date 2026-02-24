@@ -2,7 +2,7 @@
 <h3 align="center">Linux Developer • Blockchain Node Operator • DevOps </h3>
 
 <p align="center">
-  I build and operate reliable Linux and blockchain infrastructure, with a focus on production systems that scale and are actively used.
+  Build and maintain reliable Linux and blockchain infrastructure, with a focus on production systems that scale and are actively used.
   <br/>
   Open-source contributor • Community-driven engineer • Always learning
 </p>
@@ -19,23 +19,15 @@
 
 ### 👨‍💻 About Me
 
-- 🐧 Linux-focused engineer with strong interest in system internals, reliability, and maintainability
-- ⚙️ Experienced in automating repetitive tasks and improving stability of production environments
-- 🔗 Actively operating and maintaining **Blockchain full nodes and RPC nodes**, including upgrades, monitoring, and ongoing maintenance
-- 🚀 Over the past two years, managed deployment and operations of **60+ blockchain nodes** in production
-- 🎓 Built and contributed to **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)** during college, and later joined **[Arka Linux GUI (ALG)](https://github.com/arch-linux-gui)** as a core maintainer and open-source contributor
-- 🔍 Interested in infrastructure engineering, DevOps practices, and real-world production operations
-- 📈 Continuously learning and building systems that are stable, scalable, and maintainable
+- 🐧 Infrastructure and Linux Engineer with ~2 years of hands-on experience operating production blockchain infrastructure across multiple mainnets. Deployed and operated 60+ full, RPC, validator and archive nodes with a strong focus on uptime, performance, and reliability.
 
+- ⚙️ Automated node lifecycle management including provisioning, upgrades, monitoring, and incident recovery. Regularly handled critical events such as chain upgrades, validator issues, and node resyncs while minimizing downtime.
 
-### 🎯 Outside Work
-
-- 🎮 Co-op and story-driven games
-- 📺 Anime
-
+- 🚀 Active open-source contributor and Linux distribution maintainer for **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)** and **[Arka Linux GUI (ALG)](https://github.com/arch-linux-gui)**, with a strong foundation in Linux internals. Focused on building resilient, scalable infrastructure for Web3 and decentralized networks.
+- 🎯 Outside of work, I enjoy co-op and story-driven games and occasionally unwind by watching anime.
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured OS Projects
 
 - **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)**  
   A custom Linux distribution built for education and research use cases.
