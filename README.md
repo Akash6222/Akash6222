@@ -29,11 +29,9 @@
 
 ### 🚀 Featured OS Projects
 
-- **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)**  
-  A custom Linux distribution built for education and research use cases.
+- **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)**  A custom Linux distribution built for education and research use cases.
 
-- **[Arka Linux GUI (ALG)](https://github.com/arch-linux-gui)**
-  A community-driven initiative to make Arch Linux more accessible without losing its core philosophy.
+- **[Arka Linux GUI (ALG)](https://github.com/arch-linux-gui)**  A community-driven initiative to make Arch Linux more accessible without losing its core philosophy.
 
 ---
 
