@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Dubey</h1>
-<h3 align="center">Linux Developer • Blockchain Node Operator • DevOps </h3>
+<h3 align="center"> Linux Engineer | DevOps / SRE | Blockchain Infrastructure </h3>
 
 <p align="center">
   Build and maintain reliable Linux and blockchain infrastructure, with a focus on production systems that scale and are actively used.
@@ -19,30 +19,47 @@
 
 ### 👨‍💻 About Me
 
-- 🐧 Infrastructure and Linux Engineer with ~2 years of hands-on experience operating production blockchain infrastructure across multiple mainnets. Deployed and operated 60+ full, RPC, validator and archive nodes with a strong focus on uptime, performance, and reliability.
+- 🐧 Linux and Infrastructure Engineer with ~2 years of hands-on experience managing production infrastructure across multiple blockchain mainnets. Worked with full, RPC, validator, and archive nodes, focusing on uptime, performance, and reliability.
 
-- ⚙️ Automated node lifecycle management including provisioning, upgrades, monitoring, and incident recovery. Regularly handled critical events such as chain upgrades, validator issues, and node resyncs while minimizing downtime.
+- ⚙️ At RapidNode, managed infrastructure across 60+ blockchain networks and supported 10,000+ customer node subscriptions. Worked on node provisioning, upgrades, monitoring, troubleshooting, and incident recovery.
 
-- 🚀 Active open-source contributor and Linux distribution maintainer for **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)** and **[Arka Linux GUI (ALG)](https://github.com/arch-linux-gui)**, with a strong foundation in Linux internals. Focused on building resilient, scalable infrastructure for Web3 and decentralized networks.
-- 🎯 Outside of work, I enjoy co-op and story-driven games and occasionally unwind by watching anime.
+- 🌐 At InfStones, maintained validator and operator infrastructure across 16+ blockchain networks, handling chain upgrades, validator issues, and node resyncs to keep operations running smoothly.
+
+- 🚀 Open-source contributor and maintainer of [Arka Linux GUI (ALG)](https://github.com/arch-linux-gui), a community-driven project focused on making Arch Linux more accessible. I enjoy working with Linux, improving automation, and building reliable infrastructure for Web3 networks.
+
+- 🎯 Outside work, I enjoy co-op and story-driven games and occasionally unwind with anime.
+
 ---
-
 ### 🚀 Featured OS Projects
 
-- **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)**  A custom Linux distribution built for education and research use cases.
+- **[Arka Linux GUI (ALG)](https://github.com/arch-linux-gui)** A community-driven project focused on making Arch Linux more accessible, with multiple desktop environments and ongoing distribution maintenance.
 
-- **[Arka Linux GUI (ALG)](https://github.com/arch-linux-gui)**  A community-driven initiative to make Arch Linux more accessible without losing its core philosophy.
+- **[TCET Linux](https://github.com/tcet-opensource/tcet-linux)** An Arch-based Linux distribution built for educational and research use cases, developed to promote Linux adoption and open-source collaboration at TCET.
 
 ---
 
 ### 🛠️ Technical Skills
 
+| Category | Technologies & Tools |
+|---|---|
+| **Operating Systems** | Linux, Arch Linux, Debian, Ubuntu, Fedora |
+| **Linux Administration** | systemd, Bash, process management, networking, storage, troubleshooting |
+| **Programming & Scripting** | Python, Bash, C, C++ |
+| **Cloud & Infrastructure** | AWS, Google Cloud |
+| **Automation & CI/CD** | Ansible, Jenkins maintenance, GitHub Actions, shell automation |
+| **Containers** | Docker |
+| **Monitoring & Reliability** | Grafana, health checks, log analysis, incident recovery |
+| **Blockchain Infrastructure** | Full nodes, RPC nodes, archive nodes, validator operations, upgrades, resynchronization |
+
+<!--
 | Category           | Tools                                                                                                                                                                                                                                     |
 |--------------------|----------------------|
 | **Languages**          | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Cloud & Infrastructure**       | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)                                                                    |
 | **Databases**          | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)                                       |
 | **Operating Systems**   | ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) |                                                                                                          |
+
+ -->
 
 ---
 
@@ -63,11 +80,21 @@
 
 ---
 
+### 🤝 Let's Connect
 
-### 💬 Let's Connect!
-
+<!--
 <a href="https://discord.com/users/1071910908802117773" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord Logo"/></a>
 <a href="https://twitter.com/_akash_dubey_1" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter Logo"  /></a>
 <a href="https://www.linkedin.com/in/akash-dubey-807a6b200" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn Logo"  /></a>
+ -->
+
+I'm interested in opportunities involving **Linux Engineering, DevOps, Site Reliability Engineering, Infrastructure Engineering and Blockchain Infrastructure**.
+
+- 🌐 **Portfolio:** [akash-dubey.indevs.in](https://akash-dubey.indevs.in/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akash-dubey-807a6b200)
+- 🐦 **X:** [@_akash_dubey_1](https://x.com/_akash_dubey_1)
+- 💻 **GitHub:** [Akash6222](https://github.com/Akash6222)
+
+Always happy to connect with engineers, open-source contributors, and teams building reliable infrastructure.
 
 ---
